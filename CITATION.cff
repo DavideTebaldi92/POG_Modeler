@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Zanasi"
-  given-names: "Roberto"
-  orcid: "https://orcid.org/0000-0001-5507-825X"
 - family-names: "Tebaldi"
   given-names: "Davide"
   orcid: "https://orcid.org/0000-0003-1432-0489"
+- family-names: "Zanasi"
+  given-names: "Roberto"
+  orcid: "https://orcid.org/0000-0001-5507-825X"
 title: "POG_Modeler"
 version: 1.0.0
 date-released: 2023-12-01
