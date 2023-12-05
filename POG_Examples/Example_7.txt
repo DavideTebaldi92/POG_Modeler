@@ -1,0 +1,13 @@
+**, Gr, Si, Sn, Si, POG, Si, EQN, Yes, SLX, Yes, SIM, Si, pog_IntM, No
+eV, 0, a, En, V_a, Fn, I_a, An, -90
+eR, 0, 1, Kn, R_a, Fn, I_ra
+--, a, b
+--, b, d, Ln, 1.8
+eC, 1, b, Kn, C_1, En, V_1
+eL, 1, 2, Kn, L_2, Fn, I_2
+eR, 2, 3, Kn, R_c, En, V_rc, Ln, 0.8
+eL, 3, d, Kn, -L_3, Fn, -I_3, Ln, 0.8
+--, 3, 4, Ln, 0.7
+--, d, e, Ln, 0.7
+eC, 4, e, Kn, C_4, En, V_4
+eI, e, 4, Fn, I_b, Sh, -0.6

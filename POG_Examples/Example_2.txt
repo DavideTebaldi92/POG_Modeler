@@ -1,0 +1,12 @@
+**, Gr, Si, Sn, Si, POG, Si, EQN, Yes, SLX, Yes, SIM, Si, pIntM, No
+eV, 1, a, En, V_a=0, An, -90
+eL, 1, 2, Kn, L_1, Fn, I_1=1
+--, a, b, Ln, 1.0
+eR, 2, b, Kn, R_a, En, V_Ra
+eL, 2, 3, Kn, L_2, Fn, I_2=2
+--, b, c
+eC, 3, c, Kn, C_3, En, V_3=3
+eR, 3, 4, Kn, R_b, Fn, I_Rb
+--, c, d
+eC, 4, d, Kn, C_4, En, V_4=4
+eI, 4, d, En, V_b, Fn, -I_b=0, Sh, 0.7, ShY, Si, Pin, 1
