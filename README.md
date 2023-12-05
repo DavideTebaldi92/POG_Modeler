@@ -6,10 +6,8 @@ the program name indicates the first Matlab version which can run the program.
 POG Modeler Manual.pdf: file containing a basic version of the POG Modeler Manual.
 - Help POG.m: this file contains the low-level ascii commands of the POG Modeler program.
 - SIMSCAPE Basic Blocks.slx: a Simulink file containing the Simscape blocks that can be used to define the structure of the physical systems to be converted in the POG environment.
-- POG Congruent Transformation.m: Matlab function performing a state space congruent trans-
-formation.
-- POG Input Output Inversion.m: Matlab function performing a state space input-output inver-
-sion.
+- POG Congruent Transformation.m: Matlab function performing a state space congruent transformation.
+- POG Input Output Inversion.m: Matlab function performing a state space input-output inversion.
 - SI Units: file containing the System International Units.
 
 This repository also contains the following directories:
