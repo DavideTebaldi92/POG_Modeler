@@ -25,4 +25,6 @@ where ’File name.ext’ is the name of the input file. Three types of input fi
 
 Typing ”POG Modeler(’Help’)” the program generates the ”Help POG.m” containing ascii low-level commands of the POG Modeler program.
 
-A video tutorial is also available, showing how the POG Modeler can be launched by providing as input a Simscape schematic which is then going to be converted into the system power-oriented model and into the system state-space model.
+The basic properties of the Power-Oriented Graphs (POG) Technique are described in the following preprint: https://arxiv.org/abs/2409.16948
+
+A video tutorial is also available in this repository, showing how the POG Modeler can be launched by providing as input a Simscape schematic which is then going to be converted into the system power-oriented model and into the system state-space model.
